@@ -56,7 +56,7 @@ GRID_STRESS_DATASET = (
 
 PRICING_DATASET_PATH = (
     PROCESSED_DATA_DIR /
-    "pricing_model_dataset.csv"
+    "pricing_model_sample.csv"
 )
 
 PRICING_DATASET = PRICING_DATASET_PATH
